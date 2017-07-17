@@ -10,4 +10,8 @@
     <content src="index.html" />
     <access origin="*" />
     <plugin name="cordova-plugin-inappbrowser" spec="~1.7.1" />
+    <icon src="img/icon96.png" width="96" height="96" />
+    <icon src="img/icon72.png" width="72" height="72" />
+    <icon src="img/icon48.png" width="48" height="48" />
+    <icon src="img/icon36.png" width="36" height="36" />
 </widget>
